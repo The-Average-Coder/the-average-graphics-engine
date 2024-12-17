@@ -1,2 +1,2 @@
-# the-average-graphics-engine
+# TheAverageGraphicsEngine
 A lightweight C++ graphics/rendering engine
